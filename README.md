@@ -1,2 +1,3 @@
 # Calculator
-Simple calculator app 
+Simple calculator app with Xamarin.Forms
+
